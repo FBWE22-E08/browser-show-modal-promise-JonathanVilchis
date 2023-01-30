@@ -22,8 +22,4 @@ close.addEventListener("click", function () {
     modal.style.display = "none";
 });
 
-// const miPromesa = new Promise((resolve, reject) => {
-//     setTimeout(() => {
-//       resolve('La promesa se cumplió');
-//     }, 2000);
-//   });
+
